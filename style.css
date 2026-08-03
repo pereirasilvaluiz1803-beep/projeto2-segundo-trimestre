@@ -2,7 +2,16 @@
 margin: 0;
 padding: 0;
 }
-cartao{
-    width: 260;
-    height: 200;
+cabecalho{
+    paddin:15px 15px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.cartao{
+    width: 260px;
+    height: 200px;
+}
+.cartao-imagem{
+    width: 100%;
 }
